@@ -1,0 +1,41 @@
+.label.linhachegada{
+    -fx-background-image: url("imagens/linha_chegada.png");
+    -fx-pref-width:10px;
+    -fx-pref-height:200px;
+}
+
+.button.bandeira {
+    -fx-background-image: url("imagens/bandeira.png");
+    -fx-pref-width:37px;
+    -fx-pref-height:38px;  
+}
+
+.button.Carro1 {
+    -fx-background-image: url("imagens/modely.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.Carro2 {
+    -fx-background-image: url("imagens/modelx.jpeg");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.Carro3 {
+    -fx-background-image: url("imagens/modeltruck.png");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.Carro4 {
+    -fx-background-image: url("imagens/models.jpeg");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
+
+.button.Carro5 {
+    -fx-background-image: url("imagens/model3.jpeg");
+    -fx-pref-width:55px;
+    -fx-pref-height:30px;  
+}
